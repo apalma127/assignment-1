@@ -40,17 +40,24 @@ https://anthonypalma.netlify.app/
 
 -   Listen to at least the first 20 minutes of "Building a Career in Data Science, Chapter 4: Building a Portfolio". Go to the main [podcast website](https://podcast.bestbook.cool/) and navigate to a podcast provider that works for you to find that specific episode. Write 2-3 sentences reflecting on what they discussed and why creating a website might be helpful for you.
 
+
+
 ## Project ideas
 
 Answer the following questions to start thinking about the project.
 
 -   What are some topics (or a single topic) you are interested in studying from a data science perspective? These can be very specific or more general.  
 
+**Ben and I discussed something sports related.  He likes Soccer and I like Baseball so I would assume something in that realm.  I would be open to working on other sports as well...**
+
 -   Given your to topic(s), where would you find data about it? Provide at least two sources, being as specific as possible. If you need to collect/scrape it yourself, describe the steps you'd need too take.
+
+**Fivethirtyeight has amazing sports datasets that they post weekly if not daily.  We could also pull data from espn or other publicly available sources (or could copy data if need be to a google sheet or excel and import that way... I did this for my Survival Analysis capstone).**
 
 -   What challenges do you imagine having? How might you overcome them?  
 
--   Respond to the Project Survey on moodle.
+**We need to find a very specific problem that has data to meet those needs.  Some hurdles I imagine will be lack of specific enough data for certain questions.  We will need to be flexible with our question/curiosities and base that/those on available data.**
+
 
 ## Bias and Fairness
 
@@ -58,6 +65,12 @@ Listen to Dr. Rachel Thomas's [Bias and Fairness lecture](https://ethics.fast.ai
 
 -   Did you hear anything that surprised you?
 
+**I was extremely surpirsed how an algorithm matched many members of congress with mugshots, disproportionately POC members of congress.  That definitely shows an evident bias in the algo, a very unacceptable one needing fixing.**
+
 -   Why is it important that we pay attention to bias and fairness when studying data science?
 
+**A big reason to focus on bias is because biased algorithms can lead to feedback loops ie more policing because of predicted crime based falsely on race will possibly result in more crime simply because of the increased presence relative to other areas.  Additionally, with how omnipresent algorithms are in our world today (spotify or netflix recommendations, amazon recommendations...), if society does not keep in check egregious misteps, there will be little society can do once the harm has been done.**
+
 -   Is there a type of bias Dr. Thomas discussed that was new to you? Can you think about places you have seen these types of biases?
+
+**I was familiar with the biases described.  I wanted to touch briefly on representation bias though: that seems to be the easiest and most clear step that can be taken right now to address bias and unethical use of data.  A dataset unrepresentative will make extremely poor, extrapolated conclusions about parts of the population that were not even included in the collection of info  The easiest first step is to clearly address this through more diverse and representative sampling.  It is easier said than done but certainly isn't too much to ask.  I understand certain data oriented tasks like polling are focused on proportional representation and not equal representation which is what needs to be done to attempt to estimate and predict.  Yet, other industries not with this caveat need to be better.** 
