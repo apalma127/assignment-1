@@ -9,7 +9,7 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-#knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
+knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
 ```
 
 ```{r libraries}
@@ -17,9 +17,6 @@ library(tidyverse)         # for graphing and data cleaning
 theme_set(theme_minimal()) # Lisa's favorite theme
 ```
 
-```{r data}
-# Read in data here
-```
 
 -   Below, post a link to your GitHub repository - the main page which should show the README is fine.
 
@@ -40,7 +37,7 @@ https://anthonypalma.netlify.app/
 
 -   Listen to at least the first 20 minutes of "Building a Career in Data Science, Chapter 4: Building a Portfolio". Go to the main [podcast website](https://podcast.bestbook.cool/) and navigate to a podcast provider that works for you to find that specific episode. Write 2-3 sentences reflecting on what they discussed and why creating a website might be helpful for you.
 
-**Creating a website is super important because it is a really easy way for someone to see the work and the skills that I have without having to do too much like going through a technically tricky site like Github. This website with your projects will be super strong supplemental evidence with your resume as it is proof you have skills obtained from the courses listed.  By showing what you can do, it can be a big difference maker compared to the rest of the field by showing that you have the minimum, basic skills in many areas based upon simple experience with data visualizations, sql, python, R... with your projects and code; having skills that others may not have is super attractive to employers as you will require less trainging and wasted time compared to others.**
+**Creating a website is super important because it is a really easy way for someone to see the work and the skills that I have without having to do too much like going through a technically tricky site like Github. This website with your projects will be super strong supplemental evidence with your resume as it is proof you have skills obtained from the courses listed.  By showing what you can do, it can be a big difference maker compared to the rest of the field by showing that you have the minimum, basic skills in many areas based upon simple experience with data visualizations, sql, python, R... with your projects and code; having skills that others may not have is super attractive to employers as you will require less training and wasted time compared to others.**
 
 
 ## Project ideas
@@ -70,8 +67,8 @@ Listen to Dr. Rachel Thomas's [Bias and Fairness lecture](https://ethics.fast.ai
 
 -   Why is it important that we pay attention to bias and fairness when studying data science?
 
-**A big reason to focus on bias is because biased algorithms can lead to feedback loops ie more policing because of predicted crime based falsely on race will possibly result in more crime simply because of the increased presence relative to other areas.  Additionally, with how omnipresent algorithms are in our world today (spotify or netflix recommendations, amazon recommendations...), if society does not keep in check egregious misteps, there will be little society can do once the harm has been done.**
+**A big reason to focus on bias is because biased algorithms can lead to feedback loops ie more policing because of predicted crime based falsely on race will possibly result in more crime simply because of the increased presence relative to other areas.  Additionally, with how omnipresent algorithms are in our world today (spotify or netflix recommendations, amazon recommendations...), if society does not keep in check egregious missteps, there will be little society can do once the harm has been done.**
 
 -   Is there a type of bias Dr. Thomas discussed that was new to you? Can you think about places you have seen these types of biases?
 
-**I was familiar with the biases described.  I wanted to touch briefly on representation bias though: that seems to be the easiest and most clear step that can be taken right now to address bias and unethical use of data.  A dataset unrepresentative will make extremely poor, extrapolated conclusions about parts of the population that were not even included in the collection of info  The easiest first step is to clearly address this through more diverse and representative sampling.  It is easier said than done but certainly isn't too much to ask.  I understand certain data oriented tasks like polling are focused on proportional representation and not equal representation which is what needs to be done to attempt to estimate and predict.  Yet, other industries not with this caveat need to be better.** 
+**I was familiar with the biases described.  I wanted to touch briefly on representation bias though: that seems to be the easiest and most clear step that can be taken right now to address bias and unethical use of data.  A data set unrepresentative will make extremely poor, extrapolated conclusions about parts of the population that were not even included in the collection of info  The easiest first step is to clearly address this through more diverse and representative sampling.  It is easier said than done but certainly isn't too much to ask.  I understand certain data oriented tasks like polling are focused on proportional representation and not equal representation which is what needs to be done to attempt to estimate and predict.  Yet, other industries not with this caveat need to be better.** 
