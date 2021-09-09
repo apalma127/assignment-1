@@ -40,8 +40,7 @@ https://anthonypalma.netlify.app/
 
 -   Listen to at least the first 20 minutes of "Building a Career in Data Science, Chapter 4: Building a Portfolio". Go to the main [podcast website](https://podcast.bestbook.cool/) and navigate to a podcast provider that works for you to find that specific episode. Write 2-3 sentences reflecting on what they discussed and why creating a website might be helpful for you.
 
-**_______________________________________________**
-
+**Creating a website is super important because it is a really easy way for someone to see the work and the skills that I have without having to do too much like going through a technically tricky site like Github. This website with your projects will be super strong supplemental evidence with your resume as it is proof you have skills obtained from the courses listed.  By showing what you can do, it can be a big difference maker compared to the rest of the field by showing that you have the minimum, basic skills in many areas based upon simple experience with data visualizations, sql, python, R... with your projects and code; having skills that others may not have is super attractive to employers as you will require less trainging and wasted time compared to others.**
 
 
 ## Project ideas
